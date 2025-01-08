@@ -14,7 +14,7 @@ case xp >= 7001 && xp <= 8000: nivel = "Platina Diamante";
 break;
 case xp >= 8001 && xp <= 9000: nivel = "Ascendente";
 break;
-case xp >= 9001 && xp <= 1000: nivel = "Imortal";
+case xp >= 9001 && xp <= 10000: nivel = "Imortal";
 break;
 default:
     nivel = "Radiante"
